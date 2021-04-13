@@ -1,3 +1,5 @@
+# Meal Plan
+
 In an effort to foster community and simplify what otherwise would be a headache of a system, the CCC Meal Plan is included with every booking by default. 
 
 The plan works like this: 
